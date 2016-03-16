@@ -34,6 +34,7 @@ zyMedia是一款基于HTML5原生multimedia的、轻量级的、实现移动端�
 
 ## 已测试移动设备列表
 
+
 * 小米1、小米2s、小米 MI3、红米、小米 Mi-4C、小米平板 MI PAD
 
 * vivo X5Max L、vivo Y33、vivo s7i(t)、vivo X6
