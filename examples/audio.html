@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+<title>掌阅--媒体播放器</title>
+<link rel="stylesheet" href="zy.media.min.css">
+</head>
+<body>
+
+<div class="zy_media">
+    <audio data-config='' src="test.mp3">
+        您的浏览器不支持HTML5音频
+    </audio>
+</div>
+
+<script src="zepto.min.js"></script>
+<script src="zy.media.min.js"></script>
+<script>
+$(function(){
+    
+    $('audio').mediaplayer();
+
+})
+</script>
+
+</body>
+</html>
